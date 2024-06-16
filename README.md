@@ -1,4 +1,4 @@
-# MediAssist-Medical-Diagnosis-Chatbot-LLama2-RAG
+# MediAssist-Medical-Chatbot
 
 # How to run?
 ### STEPS:
@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/Mihir7b311/MediAssist-Medical-Diagnosis-Chatbot-LLama2-RAG
+Project repo: https://github.com/annuag2467/MediAssist-Medical-chatbot
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
